@@ -11,3 +11,4 @@ with this script you can control your computer remotely using a telegram bot
 - download the necessary libraries
 - connect to your telegram bot
 - your computer must remain on and connected to the internet for the bot to work
+- the error handler is not ready yet
